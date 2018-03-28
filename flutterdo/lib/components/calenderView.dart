@@ -68,7 +68,7 @@ class CalenderViewState extends State<CalenderView> {
 
   @override
   Widget build(BuildContext context) {
-    double a = dayofweek(1, month1, 2018);
+    double a = dayofweek(1, month1, new DateTime.now().year);
     var firstDayMonth = a.round();
     var totalDaysMonth = totaldays(month1);
     var i = 0;
