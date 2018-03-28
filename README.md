@@ -8,8 +8,15 @@ This project contains the basic Widgets that are required to build an amazing Fl
 ![Demo](https://github.com/geekruchika/Calender-LogicDesign/blob/master/flutterdo/screenGif/calenderDemo.gif)
 
 # Screen Shots
- ![Shot1](https://github.com/geekruchika/Calender-LogicDesign/blob/master/flutterdo/screenGif/monthCalender.png)
- ![Shot2](https://github.com/geekruchika/Calender-LogicDesign/blob/master/flutterdo/screenGif/weekCalender.png)
+
+Monthly Calender           |  Weekly Calender
+:-------------------------:|:-------------------------:
+![Shot1](https://github.com/geekruchika/Calender-LogicDesign/blob/master/flutterdo/screenGif/monthCalender.png)  |  ![Shot2](https://github.com/geekruchika/Calender-LogicDesign/blob/master/flutterdo/screenGif/weekCalender.png)
+
+
+
+ <!-- ![Shot1](https://github.com/geekruchika/Calender-LogicDesign/blob/master/flutterdo/screenGif/monthCalender.png)
+ ![Shot2](https://github.com/geekruchika/Calender-LogicDesign/blob/master/flutterdo/screenGif/weekCalender.png) -->
 
 ## Getting Started
 **Note:** Make sure your Flutter environment is setup.
