@@ -5,11 +5,11 @@ A new open-source Flutter project that enables the developer to create calender 
 This project contains the basic Widgets that are required to build an amazing Flutter application.
 
 # Demo
-![Demo](https://github.com/geekruchika/Calender-LogicDesign/tree/master/flutterdo/screenGif/calenderDemo.gif)
+![Demo](https://github.com/geekruchika/Calender-LogicDesign/blob/master/flutterdo/screenGif/calenderDemo.gif)
 
 # Screen Shots
- ![Shot1](https://github.com/geekruchika/Calender-LogicDesign/tree/master/flutterdo/screenGif/monthCalender.png)
- ![Shot2](https://github.com/geekruchika/Calender-LogicDesign/tree/master/flutterdo/screenGif/weekCalender.png)
+ ![Shot1](https://github.com/geekruchika/Calender-LogicDesign/blob/master/flutterdo/screenGif/monthCalender.png)
+ ![Shot2](https://github.com/geekruchika/Calender-LogicDesign/blob/master/flutterdo/screenGif/weekCalender.png)
 
 ## Getting Started
 **Note:** Make sure your Flutter environment is setup.
